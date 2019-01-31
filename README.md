@@ -2,6 +2,8 @@
 
 This example demostrate inner routes in nodejs express module. 
 
+made for upcoming project Sinric-Pro
+
 To run 
 
 `node index.js`
